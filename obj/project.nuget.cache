@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gxApbA/GtUzMOCkm9RV25Ue7STjfT2yNkh/HW+W2t18LLt8/I/b7qvtX9Dv/nti7f0xWQBxA726eKA8g9mMbfQ==",
+  "dgSpecHash": "Ik5bIxahPJyatsSxSZQYap8fVCs4z+dmIW6OY1RRbEKsEOtUbSsRBMqNwTMnb1JS6iku7i5hjf0t7PL1gYF0Vw==",
   "success": true,
-  "projectFilePath": "/home/stivenson/Documentos/proyects/net/ApiGateway/ApiGateway.csproj",
+  "projectFilePath": "/home/stivenson/Documentos/proyects/TestNetStivenMaldonado/ApiGateway/ApiGateway.csproj",
   "expectedPackageFiles": [
     "/home/stivenson/.nuget/packages/fluentvalidation/11.11.0/fluentvalidation.11.11.0.nupkg.sha512",
     "/home/stivenson/.nuget/packages/ipaddressrange/6.2.0/ipaddressrange.6.2.0.nupkg.sha512",

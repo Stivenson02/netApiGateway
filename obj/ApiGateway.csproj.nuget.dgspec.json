@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/stivenson/Documentos/proyects/net/ApiGateway/ApiGateway.csproj": {}
+    "/home/stivenson/Documentos/proyects/TestNetStivenMaldonado/ApiGateway/ApiGateway.csproj": {}
   },
   "projects": {
-    "/home/stivenson/Documentos/proyects/net/ApiGateway/ApiGateway.csproj": {
+    "/home/stivenson/Documentos/proyects/TestNetStivenMaldonado/ApiGateway/ApiGateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/stivenson/Documentos/proyects/net/ApiGateway/ApiGateway.csproj",
+        "projectUniqueName": "/home/stivenson/Documentos/proyects/TestNetStivenMaldonado/ApiGateway/ApiGateway.csproj",
         "projectName": "ApiGateway",
-        "projectPath": "/home/stivenson/Documentos/proyects/net/ApiGateway/ApiGateway.csproj",
+        "projectPath": "/home/stivenson/Documentos/proyects/TestNetStivenMaldonado/ApiGateway/ApiGateway.csproj",
         "packagesPath": "/home/stivenson/.nuget/packages/",
-        "outputPath": "/home/stivenson/Documentos/proyects/net/ApiGateway/obj/",
+        "outputPath": "/home/stivenson/Documentos/proyects/TestNetStivenMaldonado/ApiGateway/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/stivenson/.nuget/NuGet/NuGet.Config"
